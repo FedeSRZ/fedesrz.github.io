@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>BF478028-F52B-49F6-A4EC-DF866D14F0E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF478028-F52B-49F6-A4EC-DF866D14F0E0.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MyAwesomeProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MyAwesomeProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project MyAwesomeProject with scheme MyAwesomeProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583530567.58207595</real>
+			<key>timeStoppedRecording</key>
+			<real>583530796.19848895</real>
+			<key>title</key>
+			<string>Building project MyAwesomeProject with scheme MyAwesomeProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BF478028-F52B-49F6-A4EC-DF866D14F0E0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

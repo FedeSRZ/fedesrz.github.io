@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/fedesrz/Documents/Proyectos React-Native/react-native-web-series-master/packages/app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/fedesrz/.gradle/caches/transforms-2/files-2.1/a8f7245087407d26462ee2c58b11a1db/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

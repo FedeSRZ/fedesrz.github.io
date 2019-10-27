@@ -1,0 +1,4 @@
+#Thu Jul 11 15:15:07 ART 2019
+base.0=/Users/fedesrz/Documents/Proyectos React-Native/react-native-web-series-master/packages/app/android/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
