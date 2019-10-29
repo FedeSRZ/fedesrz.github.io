@@ -1,2 +1,5 @@
 node_modules
 packages/*/node_modules
+packages/app/android/app/build
+packages/web/build
+packages/common/dist
