@@ -12,5 +12,6 @@
   "license": "ISC",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "homepage": "fedesrz.github.io/my-comic-app"
 }
