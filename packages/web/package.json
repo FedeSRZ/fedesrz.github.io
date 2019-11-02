@@ -67,6 +67,7 @@
   "scripts": {
     "start": "cross-env SKIP_PREFLIGHT_CHECK=true node scripts/start.js",
     "build": "cross-env SKIP_PREFLIGHT_CHECK=true node scripts/build.js",
+    "deploy": "gh-pages -b master -d build",
     "test": "node scripts/test.js"
   },
   "eslintConfig": {
